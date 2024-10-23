@@ -29,4 +29,4 @@ To add this custom endpoint to your WooCommerce store, follow these steps:
 ## Customization
 
 - To change the number of reviews displayed per page, modify the $reviews_per_page variable in the code.
- You can further style the review table using custom CSS by targeting the .shop_table and .woocommerce-orders-table__header classes.
+- You can further style the review table using custom CSS by targeting the .shop_table and .woocommerce-orders-table__header classes.
