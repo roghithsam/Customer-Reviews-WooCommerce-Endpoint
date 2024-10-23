@@ -21,10 +21,12 @@ To add this custom endpoint to your WooCommerce store, follow these steps:
 4. Flush the rewrite rules by going to Settings > Permalinks in your WordPress admin and simply clicking Save Changes.
 
 ## Usage
--- After installation, users can access the "My Reviews" section from their WooCommerce account page.
--- This section will display all the approved reviews they have made on published products.
--- Pagination will automatically handle displaying multiple reviews, 10 per page by default.
 
-##Customization
--- To change the number of reviews displayed per page, modify the $reviews_per_page variable in the code.
--- You can further style the review table using custom CSS by targeting the .shop_table and .woocommerce-orders-table__header classes.
+- After installation, users can access the "My Reviews" section from their WooCommerce account page.
+- This section will display all the approved reviews they have made on published products.
+- Pagination will automatically handle displaying multiple reviews, 10 per page by default.
+
+## Customization
+
+- To change the number of reviews displayed per page, modify the $reviews_per_page variable in the code.
+ You can further style the review table using custom CSS by targeting the .shop_table and .woocommerce-orders-table__header classes.
